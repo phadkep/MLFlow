@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/payal/Documents/Project/MLFlow/mlruns/0/c3e777f6768a4ffcac40f8ef2cb1a440/artifacts
+end_time: 1708561414008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3e777f6768a4ffcac40f8ef2cb1a440
+run_name: lyrical-vole-510
+run_uuid: c3e777f6768a4ffcac40f8ef2cb1a440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708561400128
+status: 3
+tags: []
+user_id: payal

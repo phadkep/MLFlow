@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/payal/Documents/Project/MLFlow/mlruns/0/ab50150694064bafb2a38ae06fe4999c/artifacts
+end_time: 1708561437766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab50150694064bafb2a38ae06fe4999c
+run_name: lyrical-auk-696
+run_uuid: ab50150694064bafb2a38ae06fe4999c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708561434099
+status: 3
+tags: []
+user_id: payal
